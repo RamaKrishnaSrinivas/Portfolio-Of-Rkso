@@ -101,10 +101,10 @@ const App = () => {
         </div>
   
         <div className="media-gallery grid grid-cols-2 gap-2">
-          <img src="static/images/screenshot (93).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <img src="static/images/screenshot (94).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <img src="static/images/screenshot (95).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <img src="static/images/screenshot (96).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (93).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (94).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (95).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (96).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
         </div>
   
         <a href="https://github.com/RamaKrishnaSrinivas/calculator" className="text-green-400 hover:underline mt-2 inline-block">-- GitHub Link</a>
@@ -123,11 +123,11 @@ const App = () => {
         </div>
   
         <div className="media-gallery grid grid-cols-2 gap-2">
-          <img src="static/images/screenshot (77).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <img src="static/images/screenshot (78).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <img src="static/images/screenshot (79).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <img src="static/images/screenshot (80).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <video src="static/videos/registration_form record_vedio.mp4" preload="metadata" data-category="videos" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded" controls></video>
+          <img src="images/screenshot (77).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (78).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (79).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (80).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <video src="videos/registration_form record_vedio.mp4" preload="metadata" data-category="videos" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded" controls></video>
         </div>
   
         <a href="https://github.com/RamaKrishnaSrinivas/registration_form" className="text-green-400 hover:underline mt-2 inline-block">-- GitHub Link</a>
@@ -148,8 +148,8 @@ const App = () => {
         </div>
   
         <div className="media-gallery grid grid-cols-2 gap-2">
-          <img src="static/images/screenshot (X1).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
-          <img src="static/images/screenshot (X2).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (Y2).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
+          <img src="images/screenshot (Y1).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
         </div>
   
         <a href="https://github.com/RamaKrishnaSrinivas/My_Portfolio" className="text-green-400 hover:underline mt-2 inline-block">-- GitHub Link</a>
@@ -157,7 +157,6 @@ const App = () => {
                 <a href="https://portfolio-of-rkso.netlify.app/" className="text-green-400 hover:underline mt-2 inline-block">-- Live Link</a>
       </div>
 
-  
       <div className="project-card college bg-gray-800 p-4 rounded-lg shadow-lg slideUp">
         <h4 className="text-xl font-semibold text-yellow-300 mb-2">College Ranking(on-process)</h4>
   
@@ -167,8 +166,8 @@ const App = () => {
         </div>
   
         <div className="media-gallery grid grid-cols-2 gap-2">
-          <img src="static/images/screenshot (83).png" loading="lazy" data-category="screenshots" className="gallery-item hover:scale-110 w-full h-32 object-cover rounded"/>
-          <img src="static/images/screenshot (84).png" loading="lazy" data-category="screenshots" className="gallery-item hover:scale-110 w-full h-32 object-cover rounded"/>
+          <img src="images/screenshot (830).png" loading="lazy" data-category="screenshots" className="gallery-item hover:scale-110 w-full h-32 object-cover rounded"/>
+          <img src="images/screenshot (840).png" loading="lazy" data-category="screenshots" className="gallery-item hover:scale-110 w-full h-32 object-cover rounded"/>
         </div>
   
         <a href="https://github.com/RamaKrishnaSrinivas/college_ranking" className="text-green-400 hover:underline mt-2 inline-block">-- GitHub Link</a>
