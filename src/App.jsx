@@ -152,9 +152,9 @@ const App = () => {
           <img src="images/screenshot (Y1).png" loading="lazy" data-category="screenshots" className="gallery-item w-full h-32 hover:scale-110 object-cover rounded"/>
         </div>
   
-        <a href="https://github.com/RamaKrishnaSrinivas/My_Portfolio" className="text-green-400 hover:underline mt-2 inline-block">-- GitHub Link</a>
+        <a href="https://github.com/RamaKrishnaSrinivas/Portfolio-Of-Rkso" className="text-green-400 hover:underline mt-2 inline-block">-- GitHub Link</a>
         <br/>
-                <a href="https://portfolio-of-rkso.netlify.app/" className="text-green-400 hover:underline mt-2 inline-block">-- Live Link</a>
+                <a href="https://rkso-portfolio.netlify.app/" className="text-green-400 hover:underline mt-2 inline-block">-- Live Link</a>
       </div>
 
       <div className="project-card college bg-gray-800 p-4 rounded-lg shadow-lg slideUp">
