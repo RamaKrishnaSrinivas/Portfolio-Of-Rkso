@@ -67,7 +67,7 @@ const App = () => {
           <section id="skills" className="ring-2 ring-pink-400 bg-white/5 transition backdrop-blur-md p-6 rounded-lg shadow-lg">
             <h3 className="text-2xl sm:text-3xl font-bold text-yellow-400 mb-6">Skills</h3>
             <div className="flex flex-wrap gap-3">
-              {["Python","Java (Basics)","SQL","HTML5","CSS3","JavaScript (Basics)","React.js (Basics)","Tailwind CSS","Flask"].map(skill => (
+              {["Python","DBMS concepts","POSTGRESQL","HTML5","CSS3","JavaScript","React.js (Basics)","Tailwind CSS","Flask"].map(skill => (
                 <span key={skill} className="hover:scale-105 px-3 py-2 rounded-full text-purple-900 font-semibold bg-gradient-to-r from-cyan-400 to-blue-400 shadow-lg">{skill}</span>
               ))}
             </div>
@@ -77,9 +77,9 @@ const App = () => {
           <section id="education" className="ring-2 ring-pink-400 bg-white/5 transition backdrop-blur-md p-6 rounded-lg shadow-lg">
             <h3 className="text-2xl sm:text-3xl font-bold text-yellow-400 mb-4">Education</h3>
             <ul className="space-y-2 text-purple-100 text-sm sm:text-base">
-              <li><strong>B.Tech (CSE)</strong> – SIETK, Puttur (2026) – 7.5 CGPA</li>
-              <li><strong>Intermediate</strong> – Himaja Junior College (2022) – 68.8%</li>
-              <li><strong>SSC</strong> – Himaja English Medium School (2020) – 99.8%</li>
+              <li><strong>B.Tech (CSE)</strong> – SIETK, Puttur (2023-2026) – 7.5 CGPA(present)</li>
+              <li><strong>Intermediate</strong> – Himaja Junior College (2020-2022) – 68.8%</li>
+              <li><strong>SSC</strong> – Himaja English Medium School (2019-2020) – 99.8%</li>
             </ul>
           </section>
         </div>
