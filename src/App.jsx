@@ -42,7 +42,7 @@ const App = () => {
              alt="Profile" 
              className="w-32 h-32 ring-1 ring-pink-500 drop-shadow-[10px_10px_20px_pink] shake sm:w-40 sm:h-40 rounded-full border-cyan-400 shadow-lg mb-6"/>
         <h1 className="text-3xl sm:text-5xl font-bold text-cyan-400 mb-4 hover:scale-105 transition">Oruganti Rama Krishna Srinivas</h1>
-        <h2 className="text-lg sm:text-xl text-purple-300 mb-6 hover:scale-105">Python Full Stack Developer | CSE Student | Tech Enthusiast</h2>
+        <h2 className="text-lg sm:text-xl text-purple-300 mb-6 hover:scale-105">Python Full Stack Developer | <br /> CSE Student | <br /> Tech Enthusiast</h2>
         <a href="#projects" className="hover:scale-105 animate-pulse bg-cyan-400 text-purple-900 px-6 py-3 rounded-lg shadow-lg font-semibold hover:bg-cyan-500 transition">
           View My Work
         </a>
@@ -67,7 +67,7 @@ const App = () => {
           <section id="skills" className="ring-2 ring-pink-400 bg-white/5 transition backdrop-blur-md p-6 rounded-lg shadow-lg">
             <h3 className="text-2xl sm:text-3xl font-bold text-yellow-400 mb-6">Skills</h3>
             <div className="flex flex-wrap gap-3">
-              {["Python","DBMS concepts","POSTGRESQL","HTML5","CSS3","JavaScript","React.js (Basics)","Tailwind CSS","Flask"].map(skill => (
+              {["Python","DBMS concepts","POSTGRESQL","HTML5","CSS3","JavaScript","React.js","Tailwind CSS","Flask"].map(skill => (
                 <span key={skill} className="hover:scale-105 px-3 py-2 rounded-full text-purple-900 font-semibold bg-gradient-to-r from-cyan-400 to-blue-400 shadow-lg">{skill}</span>
               ))}
             </div>
