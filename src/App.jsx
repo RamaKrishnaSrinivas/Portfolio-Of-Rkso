@@ -198,7 +198,7 @@ const App = () => {
         </div>
       </section>
       <div>
-        <a href="static/orks.pdf">
+        <a href="public/orks.pdf">
           <img src="images/resume logo.jpg" loading="lazy" className="hover:scale-105 ring-1 ring-pink-500 drop-shadow-[10px_10px_15px_pink] mx-auto rounded-full w-40 sm:w-48 h-auto animate-pulse" alt="View Resume"/>
         </a>
       </div>
